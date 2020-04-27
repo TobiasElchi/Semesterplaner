@@ -1,0 +1,562 @@
+jtable/Raumkalender/Viktualienmarkt
+30
+30.03.2020
+31.03.2020
+01.04.2020
+02.04.2020
+03.04.2020
+04.04.2020
+05.04.2020 (Feiertag)
+KuL3
+Stat2
+Chem1
+Chem1
+KuL3
+null
+null
+Chem1
+BWL3
+BAdm1
+VWL2
+DBMa
+null
+null
+DBMa
+IndS
+Mark2
+JaSc1
+Chem1
+null
+null
+06.04.2020 (Praxistag)
+07.04.2020 (Praxistag)
+08.04.2020 (Praxistag)
+09.04.2020 (Praxistag)
+10.04.2020 (Praxistag)
+11.04.2020 (Praxistag)
+12.04.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+13.04.2020 (Feiertag)
+14.04.2020
+15.04.2020
+16.04.2020
+17.04.2020
+18.04.2020
+19.04.2020
+null
+Chem1
+BAdm1
+BWL3
+Stat2
+null
+null
+null
+VWL2
+JaSc1
+Mark2
+JaSc1
+null
+null
+null
+DSP1
+BAdm1
+Chem1
+Mark2
+null
+null
+20.04.2020 (Praxistag)
+21.04.2020 (Praxistag)
+22.04.2020 (Praxistag)
+23.04.2020 (Praxistag)
+24.04.2020 (Praxistag)
+25.04.2020 (Praxistag)
+26.04.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+27.04.2020
+28.04.2020
+29.04.2020
+30.04.2020
+01.05.2020 (Feiertag)
+02.05.2020
+03.05.2020
+Stat2
+IndS
+BWL3
+Mark2
+null
+null
+null
+BWL3
+IndS
+BAdm1
+VWL2
+null
+null
+null
+JaSc1
+Weronika:bevorzugt
+Weronika:bevorzugt
+KuL3
+null
+null
+null
+04.05.2020 (Praxistag)
+05.05.2020 (Praxistag)
+06.05.2020 (Praxistag)
+07.05.2020 (Praxistag)
+08.05.2020 (Praxistag)
+09.05.2020 (Praxistag)
+10.05.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+11.05.2020
+12.05.2020
+13.05.2020
+14.05.2020
+15.05.2020
+16.05.2020
+17.05.2020
+KuL3
+IndS
+VWL2
+KuL3
+ReqE1
+null
+null
+ReqE1
+Stat2
+BAdm1
+Mark2
+Weronika:möglich
+null
+null
+BWL3
+IndS
+VWL3
+KuL3
+Chem1
+null
+null
+18.05.2020 (Praxistag)
+19.05.2020 (Praxistag)
+20.05.2020 (Praxistag)
+21.05.2020 (Praxistag)
+22.05.2020 (Praxistag)
+23.05.2020 (Praxistag)
+24.05.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+25.05.2020
+26.05.2020
+27.05.2020
+28.05.2020
+29.05.2020
+30.05.2020
+31.05.2020 (Feiertag)
+Weronika:möglich
+IndS
+KuL3
+Mark2
+Stat2
+null
+null
+Weronika:möglich
+KuL3
+Tobias:bevorzugt
+BWL3
+Jenny:bevorzugt
+null
+null
+VWL3
+BWL2
+VWL3
+Jenny:bevorzugt
+ReqE1
+null
+null
+01.06.2020 (Praxistag)
+02.06.2020 (Praxistag)
+03.06.2020 (Praxistag)
+04.06.2020 (Praxistag)
+05.06.2020 (Praxistag)
+06.06.2020 (Praxistag)
+07.06.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+08.06.2020
+09.06.2020
+10.06.2020
+11.06.2020 (Feiertag)
+12.06.2020
+13.06.2020
+14.06.2020
+Tobias:bevorzugt
+BAdm1
+IndS
+null
+Mark2
+null
+null
+Tobias:bevorzugt
+ReqE1
+BWL2
+null
+IndS
+null
+null
+Jenny:möglich
+BWL2
+VWL3
+null
+ReqE1
+null
+null
+15.06.2020 (Praxistag)
+16.06.2020 (Praxistag)
+17.06.2020 (Praxistag)
+18.06.2020 (Praxistag)
+19.06.2020 (Praxistag)
+20.06.2020 (Praxistag)
+21.06.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+22.06.2020
+23.06.2020
+24.06.2020
+25.06.2020
+26.06.2020
+27.06.2020
+28.06.2020
+BAdm1
+VWL3
+KuL3
+Weronika:bevorzugt
+KuL3
+null
+null
+Tobias:bevorzugt
+ReqE1
+KuL2
+Jenny:bevorzugt
+VWL3
+null
+null
+Tobias:bevorzugt
+BAdm1
+IndS
+VWL3
+ReqE1
+null
+null
+29.06.2020 (Praxistag)
+30.06.2020 (Praxistag)
+01.07.2020 (Praxistag)
+02.07.2020 (Praxistag)
+03.07.2020 (Praxistag)
+04.07.2020 (Praxistag)
+05.07.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+06.07.2020
+07.07.2020
+08.07.2020
+09.07.2020
+10.07.2020
+11.07.2020
+12.07.2020
+Weronika:bevorzugt
+IndS
+BWL2
+BAdm1
+KuL2
+null
+null
+OoP1
+KuL2
+BAdm1
+KuL2
+BWL2
+null
+null
+BAdm3
+OoP1
+BWL2
+Mark2
+VWL3
+null
+null
+13.07.2020 (Praxistag)
+14.07.2020 (Praxistag)
+15.07.2020 (Praxistag)
+16.07.2020 (Praxistag)
+17.07.2020 (Praxistag)
+18.07.2020 (Praxistag)
+19.07.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+20.07.2020
+21.07.2020
+22.07.2020
+23.07.2020
+24.07.2020
+25.07.2020
+26.07.2020
+BWL2
+Tobias:bevorzugt
+Tobias:bevorzugt
+ReqE1
+BWL2
+null
+null
+BWL2
+KuL2
+KuL2
+ReqE1
+VWL3
+null
+null
+Jenny:bevorzugt
+Tobias:bevorzugt
+Mark2
+ReqE1
+ReqE2
+null
+null
+27.07.2020 (Praxistag)
+28.07.2020 (Praxistag)
+29.07.2020 (Praxistag)
+30.07.2020 (Praxistag)
+31.07.2020 (Praxistag)
+01.08.2020 (Praxistag)
+02.08.2020 (Praxistag)
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+03.08.2020
+04.08.2020
+05.08.2020
+06.08.2020
+07.08.2020
+08.08.2020
+09.08.2020
+KuL2
+ReqE2
+Tobias:bevorzugt
+Mark2
+Weronika:bevorzugt
+null
+null
+Weronika:bevorzugt
+Weronika:bevorzugt
+Tobias:bevorzugt
+Jenny:bevorzugt
+OoP1
+null
+null
+OoP1
+BWL2
+ReqE2
+VWL3
+Jenny:bevorzugt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
